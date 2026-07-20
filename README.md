@@ -1,4 +1,4 @@
-<div align="center">
+┌──────────────────────────────────────────────────────────────┐││├──────────────────────────────────────────────────────────────┤│││││··│││││└──────────────────────────────────────────────────────────────┘——┌──────────────────────────────────────────────────────────────┐││├──────────────────────────────────────────────────────────────┤│→││→│└──────────────────────────────────────────────────────────────┘<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
 
