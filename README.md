@@ -70,18 +70,7 @@ Computer Science student building across the stack — APIs, databases, deployme
 | **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Full backend for an AI background-removal app — upload/processing API, rembg integration, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
 | **[CortexOne](https://cortex-one-wep1.onrender.com/)** | AI chat assistant with session-based history and multi-session management, deployed end-to-end | Python, Flask, OpenAI API |
 
----
 
-### `>` GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krish231204&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9EF7&icon_color=2E9EF7&text_color=333333" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish231204&layout=compact&hide_border=true&bg_color=ffffff&title_color=2E9EF7&text_color=333333" height="165" />
-
-</div>
-
----
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
