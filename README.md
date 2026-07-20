@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+%C2%B7+Distributed+Systems;Building+APIs+that+don't+fall+over+under+load;Python+%C2%B7+FastAPI+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
 
 </div>
 
@@ -11,8 +11,8 @@
 │  $ whoami                                                     │
 ├──────────────────────────────────────────────────────────────┤
 │  NAME        Krish                                            │
-│  ROLE        Backend Developer                                │
-│  FOCUS       Distributed Systems · AI-Integrated Applications │
+│  ROLE        Software Engineering Student                     │
+│  FOCUS       Full-Stack Development · APIs · AI Integration   │
 │  BASE        Delhi, India                                     │
 │  STATUS      Open to internships                              │
 └──────────────────────────────────────────────────────────────┘
@@ -20,7 +20,7 @@
 
 ### `>` About
 
-Computer Science student who likes systems that have to survive concurrency, retries, and bad input — not just the happy path. Recent work: a distributed job scheduler with row-level locking and a full CI pipeline, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
+Computer Science student building across the stack — APIs, databases, deployment, and AI-integrated features. Recent work: a distributed job scheduler with row-level locking and a full CI pipeline, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
 
 ---
 
@@ -79,8 +79,6 @@ Computer Science student who likes systems that have to survive concurrency, ret
 <img src="https://github-readme-stats.vercel.app/api?username=Krish231204&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E9EF7&icon_color=2E9EF7&text_color=333333" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish231204&layout=compact&hide_border=true&bg_color=ffffff&title_color=2E9EF7&text_color=333333" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish231204&hide_border=true&background=ffffff&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" height="165" />
-
 </div>
 
 ---
@@ -93,9 +91,3 @@ Computer Science student who likes systems that have to survive concurrency, ret
 │  Email      →  krish.231204@gmail.com                          │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Krish231204&color=2E9EF7&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
