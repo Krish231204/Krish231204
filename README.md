@@ -1,4 +1,4 @@
-┌──────────────────────────────────────────────────────────────┐││├──────────────────────────────────────────────────────────────┤│││││··│││││└──────────────────────────────────────────────────────────────┘——┌──────────────────────────────────────────────────────────────┐││├──────────────────────────────────────────────────────────────┤│→││→│└──────────────────────────────────────────────────────────────┘<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
 
@@ -8,13 +8,13 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  $ whoami                                                     │
+│  $ whoami                                                    │
 ├──────────────────────────────────────────────────────────────┤
-│  NAME        Krish                                            │
-│  ROLE        Software Engineering Student                     │
-│  FOCUS       Full-Stack Development · APIs · AI Integration   │
-│  BASE        Delhi, India                                     │
-│  STATUS      Open to internships                              │
+│  NAME        Krish                                           │
+│  ROLE        Software Engineering Student                    │
+│  FOCUS       Full-Stack Development · APIs · AI Integration  │
+│  BASE        Delhi, India                                    │
+│  STATUS      Open to internships                             │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -70,13 +70,28 @@ Computer Science student building across the stack — APIs, databases, deployme
 | **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Full backend for an AI background-removal app — upload/processing API, rembg integration, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
 | **[CortexOne](https://cortex-one-wep1.onrender.com/)** | AI chat assistant with session-based history and multi-session management, deployed end-to-end | Python, Flask, OpenAI API |
 
+---
 
+### `>` GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krish231204&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krish231204&theme=github_dark" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=Krish231204&hide_border=true&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish231204&bg_color=0d1117&color=c9d1d9&line=2E9EF7&point=2E9EF7&area=true&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+---
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  CONNECT                                                       │
+│  CONNECT                                                     │
 ├──────────────────────────────────────────────────────────────┤
-│  LinkedIn   →  linkedin.com/in/krish-gupta-12bb29297           │
-│  Email      →  krish.231204@gmail.com                          │
+│  LinkedIn   →  linkedin.com/in/krish-gupta-12bb29297         │
+│  Email      →  krish.231204@gmail.com                        │
 └──────────────────────────────────────────────────────────────┘
 ```
