@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+%C2%B7+Full-Stack+Developer;Distributed+Systems+%C2%B7+APIs+%C2%B7+AI+Integration;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
 
 </div>
 
@@ -11,16 +11,16 @@
 │  $ whoami                                                    │
 ├──────────────────────────────────────────────────────────────┤
 │  NAME        Krish                                           │
-│  ROLE        Software Engineering Student                    │
-│  FOCUS       Full-Stack Development · APIs · AI Integration  │
+│  ROLE        Backend & Full-Stack Developer                  │
+│  FOCUS       Distributed Systems · APIs · AI Integration     │
 │  BASE        Delhi, India                                    │
-│  STATUS      Open to internships                             │
+│  STATUS      Open to Software Engineering roles              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ### `>` About
 
-Computer Science student building across the stack — APIs, databases, deployment, and AI-integrated features. Recent work: a distributed job scheduler with row-level locking and a full CI pipeline, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
+I build systems end-to-end and ship them — APIs, databases, deployment pipelines, and AI-integrated features. Recent work: a distributed job scheduler with atomic row-level job claiming, retry/backoff, and a full CI pipeline; an AI chat assistant deployed on the OpenAI API; and a background-removal service with its own auth and image pipeline.
 
 ---
 
@@ -72,16 +72,11 @@ Computer Science student building across the stack — APIs, databases, deployme
 
 ---
 
-### `>` GitHub Analytics
+### `>` Activity
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krish231204&theme=github_dark" alt="GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krish231204&theme=github_dark" alt="Top languages" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=Krish231204&hide_border=true&background=0d1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish231204&bg_color=0d1117&color=c9d1d9&line=2E9EF7&point=2E9EF7&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish231204&bg_color=0d1117&color=c9d1d9&line=2E9EF7&point=2E9EF7&area=true&hide_border=true&custom_title=Commit%20Activity" alt="Contribution graph" />
 
 </div>
 
