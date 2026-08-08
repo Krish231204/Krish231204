@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+%C2%B7+Full-Stack+Developer;Distributed+Systems+%C2%B7+APIs+%C2%B7+AI+Integration;Currently+shipping%3A+CortexOne+%26+Job+Scheduler" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Databases+%C2%B7+AI;Currently+shipping%3A+Job+Scheduler+%26+Trading+Bot" alt="Typing SVG" />
 
 </div>
 
@@ -8,19 +8,19 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  $ whoami                                                    │
+│  $ whoami                                                     │
 ├──────────────────────────────────────────────────────────────┤
-│  NAME        Krish                                           │
-│  ROLE        Backend & Full-Stack Developer                  │
-│  FOCUS       Distributed Systems · APIs · AI Integration     │
-│  BASE        Delhi, India                                    │
-│  STATUS      Open to Software Engineering roles              │
+│  NAME        Krish                                            │
+│  ROLE        Software Engineering Student                     │
+│  FOCUS       Full-Stack Development · APIs · AI Integration   │
+│  BASE        Delhi, India                                     │
+│  STATUS      Open to internships                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ### `>` About
 
-I build systems end-to-end and ship them — APIs, databases, deployment pipelines, and AI-integrated features. Recent work: a distributed job scheduler with atomic row-level job claiming, retry/backoff, and a full CI pipeline; an AI chat assistant deployed on the OpenAI API; and a background-removal service with its own auth and image pipeline.
+Computer Science student building across the stack — APIs, databases, deployment, and AI-integrated features. Recent work: a distributed job scheduler with row-level locking and a full CI pipeline, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
 
 ---
 
@@ -66,27 +66,18 @@ I build systems end-to-end and ship them — APIs, databases, deployment pipelin
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Distributed Job Scheduler](https://github.com/Krish231204/Job-Scheduler)** | Atomic job claiming across worker processes via row-level locking; 5-state job lifecycle, retry/backoff, dead-letter recovery, 31-test CI suite | Python, FastAPI, PostgreSQL, Docker |
-| **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Full backend for an AI background-removal app — upload/processing API, rembg integration, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
-| **[CortexOne](https://cortex-one-wep1.onrender.com/)** | AI chat assistant with session-based history and multi-session management, deployed end-to-end | Python, Flask, OpenAI API |
-
----
-
-### `>` Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish231204&bg_color=0d1117&color=c9d1d9&line=2E9EF7&point=2E9EF7&area=true&hide_border=true&custom_title=Commit%20Activity" alt="Contribution graph" />
-
-</div>
+| **[Distributed Job Scheduler](https://github.com/Krish231204/Job-Scheduler)** | Atomic job claiming across worker processes via row-level locking; 5-state job lifecycle, retry/backoff, dead-letter recovery, 33-test CI suite on real Postgres | Python, FastAPI, PostgreSQL, Docker |
+| **[Binance Futures Trading Bot](https://github.com/Krish231204/binance-futures-trading-bot)** | Hand-written REST client with HMAC-SHA256 signing verified against Binance's published digest; order validation against live exchange filters, `Decimal` throughout, secret redaction at the log handler | Python, REST APIs, pytest |
+| **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Backend and deployment layer for a team-built app — upload/processing API, rembg wrapped under an explicit timeout, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
+| **[CortexOne](https://github.com/Krish231204/Cortex-one)** | AI chat assistant with session-based history and multi-session management | Python, Flask, OpenAI API |
 
 ---
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  CONNECT                                                     │
+│  CONNECT                                                       │
 ├──────────────────────────────────────────────────────────────┤
-│  LinkedIn   →  linkedin.com/in/krish-gupta-12bb29297         │
-│  Email      →  krish.231204@gmail.com                        │
+│  LinkedIn   →  linkedin.com/in/krish-gupta-12bb29297           │
+│  Email      →  krish.231204@gmail.com                          │
 └──────────────────────────────────────────────────────────────┘
 ```
