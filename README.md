@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Databases+%C2%B7+AI;Currently+shipping%3A+Job+Scheduler+%26+Trading+Bot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%C2%B7+Software+Engineer;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+APIs+%C2%B7+Databases+%C2%B7+AI;Currently+shipping%3A+Job+Scheduler+%26+Watches+on+AWS" alt="Typing SVG" />
 
 </div>
 
@@ -51,6 +51,8 @@ Computer Science student building across the stack — APIs, databases, deployme
 **Infra & Tooling**
 
 ![Docker](https://img.shields.io/badge/Docker-3b3b3b?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-3b3b3b?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3b3b3b?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3b3b3b?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3b3b3b?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-3b3b3b?style=flat-square&logo=render&logoColor=white)
@@ -69,7 +71,7 @@ Computer Science student building across the stack — APIs, databases, deployme
 | **[Distributed Job Scheduler](https://github.com/Krish231204/Job-Scheduler)** · [live](http://13.63.77.245/dashboard) | Atomic job claiming across worker processes via row-level locking; job DAGs, retry/backoff, per-job timeouts, dead-letter recovery — plus a multi-tenant URL-watcher app built on it (SSRF-guarded fetches, robots.txt compliance, idempotent alerting). 55-test CI suite on real Postgres, deployed on AWS EC2 | Python, FastAPI, PostgreSQL, Docker, AWS EC2 |
 | **[Binance Futures Trading Bot](https://github.com/Krish231204/binance-futures-trading-bot)** | Hand-written REST client with HMAC-SHA256 signing verified against Binance's published digest; order validation against live exchange filters, `Decimal` throughout, secret redaction at the log handler | Python, REST APIs, pytest |
 | **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Backend and deployment layer for a team-built app — upload/processing API, rembg wrapped under an explicit timeout, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
-| **[CortexOne](https://github.com/Krish231204/Cortex-one)** · [live](https://cortex-one-three.vercel.app) | AI chat assistant with session-based history and multi-session management | Python, Flask, OpenAI API |
+| **[CortexOne](https://github.com/Krish231204/Cortex-one)** · [live](https://cortex-one-three.vercel.app) | Multi-user AI chat assistant — password auth, CSRF protection, per-user data scoping, multi-session history, 32-test suite; deployed on Vercel with Neon Postgres | Python, Flask, OpenAI API, PostgreSQL |
 
 ---
 
