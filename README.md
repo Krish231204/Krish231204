@@ -20,7 +20,7 @@
 
 ### `>` About
 
-Computer Science student building across the stack — APIs, databases, deployment, and AI-integrated features. Recent work: a distributed job scheduler with row-level locking and a full CI pipeline, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
+Computer Science student building across the stack — APIs, databases, deployment, and AI-integrated features. Recent work: a distributed job scheduler live on AWS EC2 with a multi-tenant URL-monitoring app built on top of it, an AI chat assistant on the OpenAI API, and a background-removal service with its own auth and image pipeline.
 
 ---
 
@@ -66,7 +66,7 @@ Computer Science student building across the stack — APIs, databases, deployme
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Distributed Job Scheduler](https://github.com/Krish231204/Job-Scheduler)** | Atomic job claiming across worker processes via row-level locking; 5-state job lifecycle, retry/backoff, dead-letter recovery, 33-test CI suite on real Postgres | Python, FastAPI, PostgreSQL, Docker |
+| **[Distributed Job Scheduler](https://github.com/Krish231204/Job-Scheduler)** · [live](http://13.63.77.245/dashboard) | Atomic job claiming across worker processes via row-level locking; job DAGs, retry/backoff, per-job timeouts, dead-letter recovery — plus a multi-tenant URL-watcher app built on it (SSRF-guarded fetches, robots.txt compliance, idempotent alerting). 55-test CI suite on real Postgres, deployed on AWS EC2 | Python, FastAPI, PostgreSQL, Docker, AWS EC2 |
 | **[Binance Futures Trading Bot](https://github.com/Krish231204/binance-futures-trading-bot)** | Hand-written REST client with HMAC-SHA256 signing verified against Binance's published digest; order validation against live exchange filters, `Decimal` throughout, secret redaction at the log handler | Python, REST APIs, pytest |
 | **[Bgremover.ai](https://github.com/Krish231204/bg-remover-client)** | Backend and deployment layer for a team-built app — upload/processing API, rembg wrapped under an explicit timeout, JWT auth, MySQL-backed gallery | Java, Spring Boot, Python, MySQL |
 | **[CortexOne](https://github.com/Krish231204/Cortex-one)** · [live](https://cortex-one-three.vercel.app) | AI chat assistant with session-based history and multi-session management | Python, Flask, OpenAI API |
